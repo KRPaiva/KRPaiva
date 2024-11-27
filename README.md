@@ -6,7 +6,7 @@ Meu nome é Kayuan Paiva
 Desenvolvedor 
 <br>
 <br>
-Estudo programação a 1 ano e meio e faço faculdade de Análise e Desenvolvimento de Sistemas. Me interessei pela programação para gostar de resolver problemas, ser criativo e estudar vários temas diferentes. 
+Estudo programação a 1 ano e meio e faço faculdade de Análise e Desenvolvimento de Sistemas. Me interessei pela programação porque gosto de resolver problemas, ser criativo e estudar vários temas diferentes. 
 <br>
 <br>
 🌍 Moro em Recife - PE
