@@ -2,9 +2,16 @@ Olá 👋
 <br>
 Meu nome é Kayuan Paiva 
 <br>
+<br>
 Desenvolvedor 
 <br>
-Estudo programação a 1 ano e meio e faço faculdade de Análise e Desenvolvimento de Sistemas. Me interessei pela programação para gostar de resolver problemas, ser criativo e estudar vários temas diferentes. * 🌍 Estou baseado no Brasil * ✉️ Você pode entrar em contato comigo em [kayuanrpaiva@gmail.com](mailto:kayuanrpaiva@gmail.com)[](mailto:kayuanrpaiva@gmail.com)
+<br>
+Estudo programação a 1 ano e meio e faço faculdade de Análise e Desenvolvimento de Sistemas. Me interessei pela programação para gostar de resolver problemas, ser criativo e estudar vários temas diferentes. 
+<br>
+<br>
+🌍 Moro em Recife - PE
+<br>
+✉️ Você pode entrar em contato comigo em [kayuanrpaiva@gmail.com](mailto:kayuanrpaiva@gmail.com)[](mailto:kayuanrpaiva@gmail.com)
 
 ### Habilidades
 
